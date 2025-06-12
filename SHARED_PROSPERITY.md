@@ -1,5 +1,6 @@
 # 📄 Shared Prosperity Policy
 
+**Autogeneration Note:** This document was initially generated with an LLM. Revisions will occur, but sentiment should remain clear.
 **Effective Date:** Pre-incorporation (2025)  
 **Applies To:** All founders, employees, executives, and long-term contributors
 
